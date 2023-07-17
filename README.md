@@ -15,7 +15,7 @@ It is coded using c++
 To run this program, you need to have c++ compiler installed on your system
 
 ## Installation
-git clone https://github.com/your-username/huffman-coding.git
+git clone https://github.com/vanga_ramani/huffman-coding.git
 cd huffman-coding
 g++ -o huffman_coding huffman_coding.cpp
 
